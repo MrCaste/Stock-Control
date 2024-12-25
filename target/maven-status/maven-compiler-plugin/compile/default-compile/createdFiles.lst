@@ -1,0 +1,8 @@
+com\stockcontrol\modelo\User.class
+com\stockcontrol\modelo\Product.class
+com\stockcontrol\controller\ControllerTransitions.class
+com\stockcontrol\modelo\userDataBase.class
+com\stockcontrol\controller\LoginController.class
+com\stockcontrol\controller\StockController.class
+com\stockcontrol\Main.class
+com\stockcontrol\controller\RegisterController.class
